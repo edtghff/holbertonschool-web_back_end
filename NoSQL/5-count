@@ -1,2 +1,2 @@
 // All matches
-db.school.find({"name": "school"})
+db.school.find({}).count()
